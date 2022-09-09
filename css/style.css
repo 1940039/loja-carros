@@ -1,0 +1,54 @@
+h1
+{
+    text-align: center;
+}
+
+div
+{
+    background-color: #111;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+    height: 230px;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+h2
+{
+    color: white;
+}
+
+p
+{
+    color:#b2b2b2
+}
+
+.yellow
+{
+    color: #febe01;
+}
+
+.container
+{
+    margin: 0 auto;
+}
+
+a
+{
+    text-decoration: none;
+    color: #332200;
+}
+
+.button
+{
+    background-color: #febe01;
+    padding: 8px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+* 
+{
+    font-family: Arial;
+}
